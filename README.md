@@ -1,2 +1,0 @@
-# game
-Java Game Polytech
